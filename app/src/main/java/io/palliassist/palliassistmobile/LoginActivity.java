@@ -171,12 +171,14 @@ public class LoginActivity extends AppCompatActivity implements ILoginListener {
         }
 
         if (success) {
-            StringBuilder url = new StringBuilder();
-            url.append(auth_script);
-            url.append(Settings.Secure.getString(this.getContentResolver(), Settings.Secure.ANDROID_ID));
-            new GetCapabilityTokenAsyncTask().execute(url.toString());
+//            StringBuilder url = new StringBuilder();
+//            url.append(auth_script);
+//            url.append(Settings.Secure.getString(this.getContentResolver(), Settings.Secure.ANDROID_ID));
+//            new GetCapabilityTokenAsyncTask().execute(url.toString());
             Log.d("Twilio","Completed Twilio Access");
             final Intent i = new Intent(this, MainActivity.class);
+            Intent mService = new Intent(this, MessagingService.class);
+            startService(mService);
             startActivity(i);
             finish();
         } else {
@@ -214,6 +216,15 @@ public class LoginActivity extends AppCompatActivity implements ILoginListener {
             return capabilityToken;
         }
     }
+
+    public void initBinding() {
+
+
+
+    }
+
+
+
     @Override
     public void onLoginStarted() {
         logger.d("Log in started");

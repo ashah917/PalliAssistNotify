@@ -18,6 +18,12 @@
     <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
     <uses-permission android:name="android.permission.INTERNET"/>
 
+    <permission android:name="io.palliassist.palliassistmobile.permission.C2D_MESSAGE"
+        android:protectionLevel="signature" />
+    <uses-permission android:name="io.palliassist.palliassistmobile.permission.C2D_MESSAGE" />
+
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+
     <!-- android:name="com.twilio.ipmessaging.application.TwilioApplication" -->
     <application
         android:name=".twilio.application.TwilioApplication"
@@ -26,6 +32,53 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+
+        <!--<receiver-->
+            <!--android:name="com.google.android.gms.gcm.GcmReceiver"-->
+            <!--android:exported="true"-->
+            <!--android:permission="com.google.android.c2dm.permission.SEND" >-->
+            <!--<intent-filter>-->
+                <!--<action android:name="com.google.android.c2dm.intent.RECEIVE" />-->
+                <!--<category android:name="com.example.gcm" />-->
+            <!--</intent-filter>-->
+        <!--</receiver>-->
+
+        <!--<service-->
+            <!--android:name="io.palliassist.palliassistmobile.MyGcmListenerService"-->
+            <!--android:exported="false" >-->
+            <!--<intent-filter>-->
+                <!--<action android:name="com.google.android.c2dm.intent.RECEIVE" />-->
+            <!--</intent-filter>-->
+        <!--</service>-->
+
+        <!--<service-->
+            <!--android:name="io.palliassist.palliassistmobile.MyInstanceIDListenerService"-->
+            <!--android:exported="false">-->
+            <!--<intent-filter>-->
+                <!--<action android:name="com.google.android.gms.iid.InstanceID" />-->
+            <!--</intent-filter>-->
+        <!--</service>-->
+
+        <!--<service android:name="io.palliassist.palliassistmobile.MyInstanceIDService" android:exported="false">-->
+            <!--<intent-filter>-->
+                <!--<action android:name="com.google.android.gms.iid.InstanceID"/>-->
+            <!--</intent-filter>-->
+        <!--</service>-->
+
+        <service android:name=".MessagingService">
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT"/>
+            </intent-filter>
+        </service>
+
+        <service android:name=".FirebaseIdService">
+            <intent-filter>
+                <action android:name="com.google.firebase.INSTANCE_ID_EVENT"/>
+            </intent-filter>
+        </service>
+
+
+
         <activity android:name=".LoginActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -46,9 +99,11 @@
         <activity android:name=".PainLocator"
             android:label="Pain Locator"/>
 
-        <service
-            android:name="com.twilio.ipmessaging.TwilioIPMessagingClientService"
-            android:exported="false" />
+        <activity android:name=".twilio.ui.MessageActivity" android:label="Message"></activity>
+
+        <!--<service-->
+            <!--android:name="com.twilio.ipmessaging.TwilioIPMessagingClientService"-->
+            <!--android:exported="false" />-->
 
 
     </application>
