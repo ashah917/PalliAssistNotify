@@ -44,7 +44,7 @@
         <!--</receiver>-->
 
         <!--<service-->
-            <!--android:name="io.palliassist.palliassistmobile.MyGcmListenerService"-->
+            <!--android:name="io.palliassist.palliassistmobile.My/MGcmListenerService"-->
             <!--android:exported="false" >-->
             <!--<intent-filter>-->
                 <!--<action android:name="com.google.android.c2dm.intent.RECEIVE" />-->
@@ -104,7 +104,12 @@
         <!--<service-->
             <!--android:name="com.twilio.ipmessaging.TwilioIPMessagingClientService"-->
             <!--android:exported="false" />-->
-
+        <meta-data
+            android:name="com.google.firebase.messaging.default_notification_icon"
+            android:resource="@drawable/red_circle" />
+        <meta-data
+            android:name="com.google.firebase.messaging.default_notification_color"
+            android:resource="@color/colorAccent" />
 
     </application>
 

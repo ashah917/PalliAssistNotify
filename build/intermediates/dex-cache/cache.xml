@@ -3,111 +3,219 @@
 
     <item
         is-multidex="true"
-        jar="C:\Users\Steven\Documents\2016\Senior_Design\PalliAssist\PalliAssistMobile\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
-        <dex dex="C:\Users\Steven\Documents\2016\Senior_Design\PalliAssist\PalliAssistMobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.1.0_c230a36cfe22913ca72a8cb42e9789e1579b74f0\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Steven\Documents\2016\Senior_Design\PalliAssist\PalliAssistMobile\app\libs\twilio-ip-messaging-android.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="1382e67171285d9bdd306253d7e7cf0b32bc1129">
-        <dex dex="C:\Users\Steven\Documents\2016\Senior_Design\PalliAssist\PalliAssistMobile\app\build\intermediates\transforms\dex\debug\folders\1000\2\twilio-ip-messaging-android_eee0d74822a1fade3ef8e5ea1c59b25924e00e82\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Steven\Documents\2016\Senior_Design\PalliAssist\PalliAssistMobile\app\libs\easyadapter-1.5.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="a76a1f84e60d36b6c92f5eb02917f48fc8dd6bff">
-        <dex dex="C:\Users\Steven\Documents\2016\Senior_Design\PalliAssist\PalliAssistMobile\app\build\intermediates\transforms\dex\debug\folders\1000\2\easyadapter-1.5.0_a7fc6f2100a8394dbb2eb1e87dd5f997dabde7f3\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Steven\Documents\2016\Senior_Design\PalliAssist\PalliAssistMobile\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="19f7e9ff5ee0d9c2bf9f95f0e8dea1fff8eb7a33">
-        <dex dex="C:\Users\Steven\Documents\2016\Senior_Design\PalliAssist\PalliAssistMobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_bdab2871ad2a8493cfeb92973853cdbdffa32048\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Steven\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
-        <dex dex="C:\Users\Steven\Documents\2016\Senior_Design\PalliAssist\PalliAssistMobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.1.0_41b72c6efb0aeaeac8c592768a8568e22529a7c7\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Steven\Documents\2016\Senior_Design\PalliAssist\PalliAssistMobile\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jar="C:\Users\cwang\school\rice\SPRING_2017\GLHT_452\PalliAssistNotify\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.2"
         sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
-        <dex dex="C:\Users\Steven\Documents\2016\Senior_Design\PalliAssist\PalliAssistMobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.1.0_cececf6a601485810e2885f7b0357ba03259bcc7\classes.dex" />
+        <dex dex="C:\Users\cwang\school\rice\SPRING_2017\GLHT_452\PalliAssistNotify\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.1.0_c0b3bd70df05446ce89d11b1fdd8caacb2b5de68\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Steven\Documents\2016\Senior_Design\PalliAssist\PalliAssistMobile\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.0\jars\classes.jar"
+        jar="C:\Users\cwang\school\rice\SPRING_2017\GLHT_452\PalliAssistNotify\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.2.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.2"
-        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
-        <dex dex="C:\Users\Steven\Documents\2016\Senior_Design\PalliAssist\PalliAssistMobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.1.0_939f0ab6d77ac90c1bb71279921619dcbc82a327\classes.dex" />
+        sha1="dd7676ac12aa6653718b7ea33d93ce9d6915d526">
+        <dex dex="C:\Users\cwang\school\rice\SPRING_2017\GLHT_452\PalliAssistNotify\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.2.0_f645c04be6b12a35702a50434fae9f30416a9449\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Steven\Documents\2016\Senior_Design\PalliAssist\PalliAssistMobile\app\build\intermediates\exploded-aar\com.android.volley\volley\1.0.0\jars\classes.jar"
+        jar="C:\Users\cwang\school\rice\SPRING_2017\GLHT_452\PalliAssistNotify\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.2.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.2"
-        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
-        <dex dex="C:\Users\Steven\Documents\2016\Senior_Design\PalliAssist\PalliAssistMobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.volley-volley-1.0.0_a1e6eeeb1dfe4cc5bb45e938662adf210da5f6c5\classes.dex" />
+        sha1="dc4c18602ecffb3e69cda6cdc51ba4feac0f97d7">
+        <dex dex="C:\Users\cwang\school\rice\SPRING_2017\GLHT_452\PalliAssistNotify\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.2.0_4f9f32cf68e71afb9b2bcdc5f94b20768cc91d70\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Steven\Documents\2016\Senior_Design\PalliAssist\PalliAssistMobile\app\libs\twilio-common-android.jar"
+        jar="C:\Users\cwang\school\rice\SPRING_2017\GLHT_452\PalliAssistNotify\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.2"
-        sha1="03234c61fba14906fa514ed6b9399fe7177aa3b2">
-        <dex dex="C:\Users\Steven\Documents\2016\Senior_Design\PalliAssist\PalliAssistMobile\app\build\intermediates\transforms\dex\debug\folders\1000\2\twilio-common-android_62370d69d1a11652e67aadaae89a6d97cb93bc7f\classes.dex" />
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="C:\Users\cwang\school\rice\SPRING_2017\GLHT_452\PalliAssistNotify\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.1.0_cce4bdc9179beaf1a3449c84ac60a01efcde53cc\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Steven\Documents\2016\Senior_Design\PalliAssist\PalliAssistMobile\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="7089fd022cf2347e5a3c3192e158d8cd816723b3">
-        <dex dex="C:\Users\Steven\Documents\2016\Senior_Design\PalliAssist\PalliAssistMobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_85ba8fd4d9ad4e590a2448e396ca49b3418d41aa\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Steven\Documents\2016\Senior_Design\PalliAssist\PalliAssistMobile\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jar="C:\Users\cwang\school\rice\SPRING_2017\GLHT_452\PalliAssistNotify\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.2"
         sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
-        <dex dex="C:\Users\Steven\Documents\2016\Senior_Design\PalliAssist\PalliAssistMobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.0_82e53857fbda8c5cc58f9981072b549d18501579\classes.dex" />
+        <dex dex="C:\Users\cwang\school\rice\SPRING_2017\GLHT_452\PalliAssistNotify\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.0_ef45ea7d3cffb69732a9087096ce947143eec3a4\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Steven\Documents\2016\Senior_Design\PalliAssist\PalliAssistMobile\app\build\intermediates\exploded-aar\com.android.support\design\23.1.0\jars\classes.jar"
+        jar="C:\Users\cwang\school\rice\SPRING_2017\GLHT_452\PalliAssistNotify\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="21bb89120d84fa29afeb0f9c0ebf415bc3b45a7e">
+        <dex dex="C:\Users\cwang\school\rice\SPRING_2017\GLHT_452\PalliAssistNotify\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-9.2.0_b4d37029032a636e66ad30ab1d17a0f1977d42e9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cwang\school\rice\SPRING_2017\GLHT_452\PalliAssistNotify\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3605d7305391b3acf09bf8da356c0010a3f65cf9">
+        <dex dex="C:\Users\cwang\school\rice\SPRING_2017\GLHT_452\PalliAssistNotify\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_edd44c730b8200a30c2ac9197453055e66be6130\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cwang\school\rice\SPRING_2017\GLHT_452\PalliAssistNotify\app\libs\twilio-ip-messaging-android.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1382e67171285d9bdd306253d7e7cf0b32bc1129">
+        <dex dex="C:\Users\cwang\school\rice\SPRING_2017\GLHT_452\PalliAssistNotify\app\build\intermediates\transforms\dex\debug\folders\1000\2\twilio-ip-messaging-android_ac11f4607496a6e845bf6d9ca38c57be0a4cd7f9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cwang\school\rice\SPRING_2017\GLHT_452\PalliAssistNotify\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="fb15fd9774b5c51dcb39d8e6fa1b6f06bcd1cd34">
+        <dex dex="C:\Users\cwang\school\rice\SPRING_2017\GLHT_452\PalliAssistNotify\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.2.0_e0d47d6fefdeb60614afe7545e596da85dc63904\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cwang\school\rice\SPRING_2017\GLHT_452\PalliAssistNotify\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="593fbaec1c3e100480a2bd72457b64b7dde6ac2d">
+        <dex dex="C:\Users\cwang\school\rice\SPRING_2017\GLHT_452\PalliAssistNotify\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.2.0_44343c17757a5ae09e121c4e1f4fb5cc105e3678\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cwang\school\rice\SPRING_2017\GLHT_452\PalliAssistNotify\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a03f4d605b0f29222c2ddf8b7896258cb4b92def">
+        <dex dex="C:\Users\cwang\school\rice\SPRING_2017\GLHT_452\PalliAssistNotify\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-9.2.0_edf719cde1d0482ee73d36fb5e44ff2578d6ffb6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cwang\school\rice\SPRING_2017\GLHT_452\PalliAssistNotify\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="299e04800d1169b9f3dd04c376c7b266a3594cca">
+        <dex dex="C:\Users\cwang\school\rice\SPRING_2017\GLHT_452\PalliAssistNotify\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-9.2.0_36c625f101ae03a4b2f329944090dcfd40a6900d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cwang\android-sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="C:\Users\cwang\school\rice\SPRING_2017\GLHT_452\PalliAssistNotify\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.1.0_3fa5c23709df240fde5d8dcc89b88ca98d928bac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cwang\school\rice\SPRING_2017\GLHT_452\PalliAssistNotify\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="30489a97b06cc3945bdbcc1770089af9e3b3b64d">
+        <dex dex="C:\Users\cwang\school\rice\SPRING_2017\GLHT_452\PalliAssistNotify\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.2.0_b24f9b07f470be5069a3be64df102ad8feb4c54c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cwang\school\rice\SPRING_2017\GLHT_452\PalliAssistNotify\app\build\intermediates\exploded-aar\com.android.support\design\23.1.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.2"
         sha1="19026d31f5d3ae868db81319671a642be5fbba08">
-        <dex dex="C:\Users\Steven\Documents\2016\Senior_Design\PalliAssist\PalliAssistMobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.1.0_94aa3990989289b5aeaf650313f60bde81a5565d\classes.dex" />
+        <dex dex="C:\Users\cwang\school\rice\SPRING_2017\GLHT_452\PalliAssistNotify\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.1.0_4ac95397d2c5dad21602ec7703b514e0e6a569b2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cwang\school\rice\SPRING_2017\GLHT_452\PalliAssistNotify\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4838df6db988160b107e954e02a745370df543b6">
+        <dex dex="C:\Users\cwang\school\rice\SPRING_2017\GLHT_452\PalliAssistNotify\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.2.0_85c6e485977c70482622451009f24a75fda27bf0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cwang\school\rice\SPRING_2017\GLHT_452\PalliAssistNotify\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
+        <dex dex="C:\Users\cwang\school\rice\SPRING_2017\GLHT_452\PalliAssistNotify\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.1.0_cf06f165350b4ef5ab58c4f08ec3c0ff7e589f9c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cwang\school\rice\SPRING_2017\GLHT_452\PalliAssistNotify\app\build\intermediates\exploded-aar\com.android.volley\volley\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="C:\Users\cwang\school\rice\SPRING_2017\GLHT_452\PalliAssistNotify\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.volley-volley-1.0.0_edd88e68c7d1d111c9327de1f7e650eb02e7f3e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cwang\school\rice\SPRING_2017\GLHT_452\PalliAssistNotify\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="363f626ad5686283250cdb6073ae1bba5cb07a87">
+        <dex dex="C:\Users\cwang\school\rice\SPRING_2017\GLHT_452\PalliAssistNotify\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.2.0_f4ee4aa91e9d74d1f48685b68fc344a5fc6bd56a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cwang\school\rice\SPRING_2017\GLHT_452\PalliAssistNotify\app\libs\twilio-common-android.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="03234c61fba14906fa514ed6b9399fe7177aa3b2">
+        <dex dex="C:\Users\cwang\school\rice\SPRING_2017\GLHT_452\PalliAssistNotify\app\build\intermediates\transforms\dex\debug\folders\1000\2\twilio-common-android_37e4742c2a2ded71edb73b84ccfdb013c4ce8cb8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cwang\school\rice\SPRING_2017\GLHT_452\PalliAssistNotify\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8ec9ae00d45e758ac5b7a1c5dc0daa8a4b24280f">
+        <dex dex="C:\Users\cwang\school\rice\SPRING_2017\GLHT_452\PalliAssistNotify\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-9.2.0_6e2934a5461b859b284458ff3f3d60559de3c05b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cwang\school\rice\SPRING_2017\GLHT_452\PalliAssistNotify\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c6e88535864b6a0b4c7164dc1b178259acbcdc87">
+        <dex dex="C:\Users\cwang\school\rice\SPRING_2017\GLHT_452\PalliAssistNotify\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_49d73e3ff81333dbb62a55d5f4cf60d8ee0f46e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cwang\school\rice\SPRING_2017\GLHT_452\PalliAssistNotify\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="C:\Users\cwang\school\rice\SPRING_2017\GLHT_452\PalliAssistNotify\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_69a9738566f0ecbdd272e1b31836b55ad5fc7bd9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cwang\school\rice\SPRING_2017\GLHT_452\PalliAssistNotify\app\libs\easyadapter-1.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a76a1f84e60d36b6c92f5eb02917f48fc8dd6bff">
+        <dex dex="C:\Users\cwang\school\rice\SPRING_2017\GLHT_452\PalliAssistNotify\app\build\intermediates\transforms\dex\debug\folders\1000\2\easyadapter-1.5.0_2e591088d2f348f6854862973286b5c3627881bc\classes.dex" />
     </item>
 
 </items>

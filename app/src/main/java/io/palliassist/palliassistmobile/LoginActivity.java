@@ -5,7 +5,6 @@ import android.content.Context;
 import android.content.Intent;
 import android.os.AsyncTask;
 import android.os.Bundle;
-import android.provider.Settings;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.view.KeyEvent;
@@ -25,6 +24,8 @@ import com.android.volley.Response;
 import com.android.volley.VolleyError;
 import com.android.volley.toolbox.StringRequest;
 import com.android.volley.toolbox.Volley;
+import com.google.firebase.iid.FirebaseInstanceId;
+import com.google.firebase.messaging.FirebaseMessaging;
 
 import org.json.JSONArray;
 import org.json.JSONException;
@@ -33,7 +34,6 @@ import org.json.JSONObject;
 import java.util.HashMap;
 import java.util.Map;
 
-import io.palliassist.palliassistmobile.twilio.ui.ChannelActivity;
 import io.palliassist.palliassistmobile.twilio.ui.Logger;
 import io.palliassist.palliassistmobile.twilio.util.BasicIPMessagingClient;
 import io.palliassist.palliassistmobile.twilio.util.HttpHelper;
@@ -178,6 +178,8 @@ public class LoginActivity extends AppCompatActivity implements ILoginListener {
             Log.d("Twilio","Completed Twilio Access");
             final Intent i = new Intent(this, MainActivity.class);
             Intent mService = new Intent(this, MessagingService.class);
+            FirebaseMessaging.getInstance().subscribeToTopic("test");
+            Log.d("FCM Registration Token:", FirebaseInstanceId.getInstance().getToken());
             startService(mService);
             startActivity(i);
             finish();
